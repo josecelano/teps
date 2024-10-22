@@ -2,7 +2,7 @@
 
 _TEPs_, or _Torrust Enhancement Proposals_, are documents that for through a formal review process as they contain changes that are more significant to our project. This process allows us to ensure that such a change is properly considered and is implemented in a coordinated way.
 
-### Contributing:
+### Contributing
 
 1. Familiarize yourself with our [Contributing Guidelines](/Contributing-Guidelines.md).
 
@@ -11,10 +11,11 @@ _TEPs_, or _Torrust Enhancement Proposals_, are documents that for through a for
 If you are wishing to make a new TEP, please consider our TEP Template: [TEP 0](/TEP-0000.md).
 
 ---
-### Torrust Enhancement Proposal Index:
+
+### Torrust Enhancement Proposal Index
 
 |Number|Type|Title|Owner|Type|Status|
 |:-:|:-|:-|:-|:-|:-|
-[0](/TEP-0000.md)||TEP Template|Constantin Bosse|Process|Active|
-[1](/TEP-0001.md)||TEP Purpose and Guidelines|Constantin Bosse|Process|Active|
-[12](/TEP-0012.md)|Index|One-Sided Passkey Authentication|Cameron Garnham|Standards Track|Draft|
+|[0](/TEP-0000.md)||TEP Template|Constantin Bosse|Process|Active|
+|[1](/TEP-0001.md)||TEP Purpose and Guidelines|Constantin Bosse|Process|Active|
+|[12](/TEP-0012.md)|Index|One-Sided Passkey Authentication|Cameron Garnham|Standards Track|Draft|
