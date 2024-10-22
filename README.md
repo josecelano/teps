@@ -19,3 +19,4 @@ If you are wishing to make a new TEP, please consider our TEP Template: [TEP 0](
 |[0](/TEP-0000.md)||TEP Template|Constantin Bosse|Process|Active|
 |[1](/TEP-0001.md)||TEP Purpose and Guidelines|Constantin Bosse|Process|Active|
 |[12](/TEP-0012.md)|Index|One-Sided Passkey Authentication|Cameron Garnham|Standards Track|Draft|
+|[13](/TEP-0013.md)|Index|Bencode to JSON conversion|Jose Celano|Standards Track|Draft|
